@@ -1,22 +1,4 @@
-# 📘 TypeScript Blog Post (বাংলা)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
-নিচে TypeScript এর ২টি গুরুত্বপূর্ণ প্রশ্নের সহজ ও বিস্তারিত ব্যাখ্যা দেওয়া হলো।
-
----
-
-## 📑 Table of Contents
-- [প্রশ্ন ১: Interface এবং Type এর পার্থক্য](#-প্রশ্ন-১-typescript-এ-interface-এবং-type-এর-মধ্যে-কী-পার্থক্য)
-- [প্রশ্ন ২: `keyof` কীওয়ার্ডের ব্যবহার](#-প্রশ্ন-২-typescript-এ-keyof-কীওয়ার্ডের-ব্যবহার-কী)
-
-
----
-# TypeScript Concepts Explained in Bangla
-
-## ব্লগ পোস্ট: TypeScript এর কিছু গুরুত্বপূর্ণ কনসেপ্ট
 
 ### ১. TypeScript এ Interface এবং Type এর মধ্যে পার্থক্য
 
